@@ -1,0 +1,42 @@
+[
+  {
+    "name"  : "Malaikat Jibril",
+    "tugas" : "Menyampaikan wahyu kepada nabi dan rosul"
+  },
+  {
+    "name"  : "Malaikat Mikail",
+    "tugas" : "Menurunkan rezeki"
+  },
+  {
+    "name"  : "Malaikat Israfil",
+    "tugas" : "Meniup trompet sangkakala"
+  },
+  {
+    "name"  : "Malaikat Izrail",
+    "tugas" : "Mencabut nyawa"
+  },
+  {
+    "name"  : "Malaikat Munkar",
+    "tugas" : "menanyakan dan melakukan pemeriksaan pada amal perbuatan manusia di alam kubur"
+  },
+  {
+    "name"  : "Malaikat Nakir",
+    "tugas" : "menanyakan dan melakukan pemeriksaan pada amal perbuatan manusia di alam kubur"
+  },
+  {
+    "name"  : "Malaikat Roqib",
+    "tugas" : "Mencatat amal kebaikan manusia"
+  },
+  {
+    "name"  : "Malaikat Atid",
+    "tugas" : "Mencatat amal keburukan manusia"
+  },
+  {
+    "name"  : "Malaikat Malik",
+    "tugas" : "Penjaga pintu neraka"
+  },
+  {
+    "name"  : "Malaikat Ridwan",
+    "tugas" : "Penjaga pintu surga"
+  }
+]
